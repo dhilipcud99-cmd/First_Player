@@ -1,0 +1,13 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FF1565C0</color>
+    <color name="primary_dark">#FF0D47A1</color>
+    <color name="accent">#FF42A5F5</color>
+    <color name="background_dark">#FF121212</color>
+    <color name="surface_dark">#FF1E1E1E</color>
+    <color name="card_background">#FF1E1E1E</color>
+    <color name="text_secondary">#FFB0BEC5</color>
+    <color name="overlay">#88000000</color>
+    <color name="player_accent">#FF76E4D0</color>
+</resources>
